@@ -1,9 +1,9 @@
-import './App.css'
+import Home from './pages/Home/index';
 
 function App() {
   return (
     <>
-      <h1>SITE NO AR</h1>
+      <Home />
     </>
   )
 }
