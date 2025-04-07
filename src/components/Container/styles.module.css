@@ -1,0 +1,6 @@
+.container {
+  width: 100%;
+  max-width: 1200px; /* você pode ajustar */
+  margin: 0 auto;
+  z-index: 1000;
+}

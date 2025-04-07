@@ -1,5 +1,6 @@
 :root {
-  --gradient-pink: linear-gradient(90deg, #BD24E6, #E40FAC);
+  --gradient-pink: linear-gradient(to right, #BD24E6, #E40FAC);
+  --gradient-green: linear-gradient(to right, #E025CE, #4AED52);
 
   --font-one: "Paytone One", sans-serif;
   --font-two: "Outfit", sans-serif;
@@ -19,5 +20,5 @@ html {
 
 body {
   font-size: 1.6rem;
-  background-color: yellow;
+  color: #fff;
 }
